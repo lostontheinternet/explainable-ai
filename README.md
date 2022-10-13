@@ -1,1 +1,1 @@
-# explainable-ai
+The work presented here was produced in the context of a technical project, in 5th year of engineering school. The project tackled explainility models, applied to state-of-the-art neural networks for emotion recognition. Main supervisors for this project include researchers Lucie Lévêque and Alexandre Bruckert, collaborators at the LS2N.
