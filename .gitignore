@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Others
-affectnet/
-pretrained_ckpt
-.caffemodel
-deploy.prototxt.txt
+datasets/
+rmn/pretrained_ckpt
+rmn/.caffemodel
+rmn/deploy.prototxt.txt
