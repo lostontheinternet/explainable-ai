@@ -131,5 +131,5 @@ dmypy.json
 # Others
 affectnet/
 pretrained_ckpt
-.caffemodel/
+.caffemodel
 deploy.prototxt.txt
