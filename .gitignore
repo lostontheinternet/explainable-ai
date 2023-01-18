@@ -134,3 +134,5 @@ rmn/pretrained_ckpt
 rmn/.caffemodel
 rmn/deploy.prototxt.txt
 xai-outputs/
+feature-maps/
+*.txt
