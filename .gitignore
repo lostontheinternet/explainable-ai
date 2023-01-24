@@ -130,9 +130,10 @@ dmypy.json
 
 # Others
 datasets/
-rmn/pretrained_ckpt
-rmn/.caffemodel
+pretrained_ckpt
+*.caffemodel
 rmn/deploy.prototxt.txt
 xai-outputs/
 feature-maps/
 *.txt
+*.npy
