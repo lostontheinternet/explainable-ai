@@ -53,7 +53,7 @@ class RISE(nn.Module):
         p = torch.cat(p)
         # Number of classes
         CL = p.size(1)
-        sal = torch.matmul(p.data.transpose(0, 1), self.masks.view(N, H * W))
+        sal = torch.matmul(p.data.transpose(0, 1), self.masks.view(N, H * W).cuda())
         sal = sal.view((CL, H, W))
         sal = sal / N / self.p1
         return sal
