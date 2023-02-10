@@ -133,5 +133,5 @@ datasets/
 pretrained_ckpt
 *.caffemodel
 deploy.prototxt.txt
-*.txt
+notes.txt
 *.npy
