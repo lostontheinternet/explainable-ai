@@ -132,8 +132,6 @@ dmypy.json
 datasets/
 pretrained_ckpt
 *.caffemodel
-rmn/deploy.prototxt.txt
-xai-outputs/
-feature-maps/
+deploy.prototxt.txt
 *.txt
 *.npy
